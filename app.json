@@ -1,15 +1,15 @@
 {
   "name": "Lunatic",
-  "description": "Hi there, I am Lunatic Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t Incase of Any Problem Whatsapp me on: +254728782591",
-  "logo": "https://telegra.ph/file/54efddccf41281ad7ec51.jpg",
-  "keywords": ["whatsappbot", "suhailMd", "suhail Md bot", "Suhail-Md", "SuhailMdWhatsaooBot", "SuhailWaBot","SuhailMD","Suhail Md Whatsapp Bot","multi device"],
-  "success_url": "/suhail/",
+  "description": "Hi there, I am Lunatic Bot Whatsapp Chuddy Buddy built in NodeJs to make experience better.\n\t Incase of Any Problem Whatsapp me on: +254112362249",
+  "logo": "https://telegra.ph/file/ac5e461ce1fe4e2a0b881.jpg",
+  "keywords": ["whatsappbot", "LunaticMd", "lunatic Md bot", "lunatic-Md", "lunaticMdWhatsaooBot", "lunaticWaBot","lunaticMD","lunatic Md Whatsapp Bot","multi device"],
+  "success_url": "/lunatic/",
   "app_url": "/qr/",
   
   "env": {
     "OWNER_NAME": {Lunatic 
       "description": "Name of Bot Owner",    
-      "value": "ɢɪғᴛᴇᴅ ᴛᴇᴄʜ",
+      "value": Lunatic",
       "required" :true
     },   
     
@@ -102,7 +102,7 @@
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
       "required" :true,
-      "value": "254728782591"
+      "value": "254112362249"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
